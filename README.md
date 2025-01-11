@@ -1,8 +1,5 @@
 <h1 align="center">BERT-Based Persian Spelling Correction</h1>
 
-<p align="center">
-  <img src="path_to_your_logo.png" alt="Project Logo" width="200">
-</p>
 
 <p align="center">
   A deep learning-based approach to correct spelling errors in informal Persian text using BERT.
@@ -33,7 +30,7 @@
 
 <h2 id="installation">💻 Installation</h2>
 
-<pre><code>git clone https://github.com/your-username/bert-persian-spelling-correction.git
+<pre><code>git clone https://github.com/peyman-dashtestani/bert-persian-spelling-correction.git
 cd bert-persian-spelling-correction
 pip install -r requirements.txt
 </code></pre>
