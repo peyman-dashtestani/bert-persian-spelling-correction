@@ -22,8 +22,6 @@
   <li><a href="#data-preprocessing">Data Preprocessing</a></li>
   <li><a href="#model-architecture">Model Architecture</a></li>
   <li><a href="#training">Training</a></li>
-  <li><a href="#evaluation">Evaluation</a></li>
-  <li><a href="#results">Results</a></li>
   <li><a href="#contributing">Contributing</a></li>
   <li><a href="#license">License</a></li>
 </ul>
@@ -32,7 +30,6 @@
 
 <pre><code>git clone https://github.com/peyman-dashtestani/bert-persian-spelling-correction.git
 cd bert-persian-spelling-correction
-pip install -r requirements.txt
 </code></pre>
 
 <h2 id="usage">🔧 Usage</h2>
