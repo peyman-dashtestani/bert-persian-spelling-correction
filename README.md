@@ -65,20 +65,6 @@ pip install -r requirements.txt
   <li>Epochs: 5</li>
 </ul>
 
-<h2 id="evaluation">📊 Evaluation</h2>
-
-<p>We evaluate our model using:</p>
-<ul>
-  <li>Accuracy</li>
-  <li>Precision</li>
-  <li>Recall</li>
-  <li>F1 Score</li>
-</ul>
-
-<h2 id="results">📈 Results</h2>
-
-<p>(Add your performance metrics and visualizations here)</p>
-
 <h2 id="contributing">🤝 Contributing</h2>
 
 <p>Contributions are welcome! Please feel free to submit a Pull Request.</p>
